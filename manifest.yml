@@ -1,0 +1,5 @@
+---
+applications:
+- name: dublin-parishes
+  memory: 64M
+  disk_quota: 64M
